@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]((https://github.com/jameswood-01/Vulnerability-Management/commit/36a845fbb81859680568113ef3a5c07e82a4e372))**
+- **[Vulnerability Management Program Implementation](https://github.com/jameswood-01/Vulnerability-Management/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jameswood-01/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
