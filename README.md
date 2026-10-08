@@ -26,7 +26,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: (https://www.instagram.com/jimmywooddrums/)
+[instagram]: https://www.instagram.com/jimmywooddrums
 [linkedin]: https://linkedin.com/in/jamesmwood22
 
 <!--
