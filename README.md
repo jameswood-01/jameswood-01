@@ -12,6 +12,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameswood-01/threat-hunting-scenario)**
 
+- ## 🖥️ Home Lab - [Pentesting Home Lab](https://github.com/jameswood-01/pentest-homelab)
+
 <hr/>
 
 ## 🤳 Connect With Me
