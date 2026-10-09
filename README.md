@@ -29,9 +29,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [![Website](https://img.shields.io/badge/Website-jameswood.org-black)](https://www.jameswood.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamesmwood22-black)](https://linkedin.com/in/jamesmwood22)
 [![Instagram](https://img.shields.io/badge/Instagram-jimmywooddrums-black)](https://www.instagram.com/jimmywooddrums)
-[twitter]: https://twitter.com/___________
-[instagram]: https://www.instagram.com/jimmywooddrums
-[linkedin]: https://linkedin.com/in/jamesmwood22
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
