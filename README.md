@@ -21,11 +21,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [![Website](https://img.shields.io/badge/Website-jameswood.org-black)](https://www.jameswood.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jamesmwood22-black)](https://linkedin.com/in/jamesmwood22)
 [![Instagram](https://img.shields.io/badge/Instagram-jimmywooddrums-black)](https://www.instagram.com/jimmywooddrums)
