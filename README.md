@@ -28,7 +28,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [twitter]: https://twitter.com/___________
 [instagram]: https://www.instagram.com/jimmywooddrums
-[Website](https://img.shields.io/badge/Website-jameswood.org-black?logo=googlechrome&logoColor=white)][web]
 [linkedin]: https://linkedin.com/in/jamesmwood22
 
 <!--
