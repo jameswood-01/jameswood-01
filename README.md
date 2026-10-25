@@ -13,6 +13,8 @@ I learn security hands-on by building things and breaking them. These repos show
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jameswood-01/threat-hunting-scenario)**
 
+- ** [Threat Hunt: Business Email Compromise (MFA Fatigue / Microsoft Sentinel)](https://github.com/jameswood-01/THREAT-HUNT)**
+
 ## 🖥️ Home Lab
 - **[Pentesting Lab](https://github.com/jameswood-01/pentest-homelab)**
 
